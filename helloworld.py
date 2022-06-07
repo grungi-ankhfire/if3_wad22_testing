@@ -1,2 +1,2 @@
-print("Hello, World!")
+print("Hello, Interface3!")
 print("Goodbye.")
